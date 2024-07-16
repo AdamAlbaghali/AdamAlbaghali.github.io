@@ -1,4 +1,3 @@
-# Adam Albaghali
 ![My Photo](link_to_your_photo.jpg)
 
 ## Short Bio
