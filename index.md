@@ -1,4 +1,5 @@
 <div style="text-align: center;">
+
 ![My Photo](profile.jpg)
 
 ## Short Bio
