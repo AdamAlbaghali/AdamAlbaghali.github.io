@@ -1,3 +1,4 @@
+<div style="text-align: center;">
 ![My Photo](profile.jpg)
 
 ## Short Bio
@@ -12,3 +13,5 @@ I love to read in my free time and play sports.
 ## Social Media
 [LinkedIn](https://www.linkedin.com/in/yourusername)  
 [GitHub](https://github.com/yourusername)
+
+</div>
