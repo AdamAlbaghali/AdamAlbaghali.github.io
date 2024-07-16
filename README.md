@@ -8,7 +8,7 @@ My name is Adam Albaghali and i am a rising senior in Brooklyn College. Currentl
 I love to read in my free time and play sports.
 
 ## Resume
-[Link to my Resume](link_to_your_resume.pdf)
+[Link to my Resume](resume.pdf)
 
 ## Social Media
 [LinkedIn](https://www.linkedin.com/in/AdamAlbaghali)  
