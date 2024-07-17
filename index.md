@@ -12,7 +12,7 @@ I love to read in my free time and play sports.
 [Link to my Resume](resume.pdf)
 
 ## Social Media
-[LinkedIn](https://www.linkedin.com/in/yourusername)  
-[GitHub](https://github.com/yourusername)
+[LinkedIn](https://www.linkedin.com/in/AdamAlbaghali)  
+[GitHub](https://github.com/AdamAlbaghali)
 
 </div>
