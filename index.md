@@ -1,7 +1,4 @@
 ![My Photo](profile.jpg)
-
-# Adam Albaghali
-
 ### Rising Senior at Brooklyn College | Aspiring Tech Enthusiast
 
 ## About Me
